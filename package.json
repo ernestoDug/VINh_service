@@ -1,0 +1,9 @@
+{
+      "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ernestoDug/VINh_service"
+    },
+    
+    
+    "browserslist": "> 0.5%, last 2 versions, not dead"
+  }  
